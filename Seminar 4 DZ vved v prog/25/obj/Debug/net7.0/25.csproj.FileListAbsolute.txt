@@ -1,0 +1,15 @@
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\bin\Debug\net7.0\25.exe
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\bin\Debug\net7.0\25.deps.json
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\bin\Debug\net7.0\25.runtimeconfig.json
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\bin\Debug\net7.0\25.dll
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\bin\Debug\net7.0\25.pdb
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.csproj.AssemblyReference.cache
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.AssemblyInfoInputs.cache
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.AssemblyInfo.cs
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.csproj.CoreCompileInputs.cache
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.dll
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\refint\25.dll
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.pdb
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\25.genruntimeconfig.cache
+C:\Users\BigPenis\Seminar 4 DZ vved v prog\25\obj\Debug\net7.0\ref\25.dll
